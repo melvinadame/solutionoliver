@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="LoggerInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="LoggerTrait.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="LogLevel.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+<file name="NullLogger.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132472843700000000" remote="132472843700000000" Dst="2" />
+</dwsync>

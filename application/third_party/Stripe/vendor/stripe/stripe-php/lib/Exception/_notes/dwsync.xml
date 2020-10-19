@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApiConnectionException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="ApiErrorException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="AuthenticationException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="BadMethodCallException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="CardException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="ExceptionInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="IdempotencyException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="InvalidRequestException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="PermissionException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="RateLimitException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="SignatureVerificationException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="UnexpectedValueException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+<file name="UnknownApiErrorException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947820000000" remote="132457947820000000" Dst="2" />
+</dwsync>

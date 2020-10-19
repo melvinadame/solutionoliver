@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="AuthenticationFailedException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="CreateMailboxException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="DeleteMailboxException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="ImapGetmailboxesException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="InvalidDateHeaderException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="InvalidHeadersException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="InvalidResourceException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="InvalidSearchCriteriaException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MailboxDoesNotExistException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageCopyException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageDeleteException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageDoesNotExistException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageMoveException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageStructureException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="NotEmbeddedMessageException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="OutOfBoundsException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="ReopenMailboxException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="UnexpectedEncodingException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="UnsupportedCharsetException.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+</dwsync>

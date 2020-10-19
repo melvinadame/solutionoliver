@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMessage.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="AbstractPart.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Attachment.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="AttachmentInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="BasicMessageInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="EmailAddress.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="EmbeddedMessage.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="EmbeddedMessageInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Headers.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Parameters.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="PartInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="SimplePart.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Transcoder.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="ElasticaFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="FlowdockFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="FluentdFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="FormatterInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="GelfMessageFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="HtmlFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="JsonFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="LineFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="LogglyFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="LogstashFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="MongoDBFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="NormalizerFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="ScalarFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+<file name="WildfireFormatter.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947720000000" remote="132457947720000000" Dst="2" />
+</dwsync>

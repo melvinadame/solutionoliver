@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Connection.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="ConnectionInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="ImapResource.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="ImapResourceInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Mailbox.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MailboxInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Message.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageIterator.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="MessageIteratorInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="SearchExpression.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="Server.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+<file name="ServerInterface.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947760000000" remote="132457947760000000" Dst="2" />
+</dwsync>

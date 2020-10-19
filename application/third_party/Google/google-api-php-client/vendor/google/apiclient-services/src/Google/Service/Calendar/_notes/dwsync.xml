@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Acl.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="AclRule.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="AclRuleScope.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="Calendar.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="CalendarList.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="CalendarListEntry.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="CalendarListEntryNotificationSettings.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="CalendarNotification.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="Channel.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ColorDefinition.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="Colors.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceData.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceParameters.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceParametersAddOnParameters.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceProperties.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceRequestStatus.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceSolution.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="ConferenceSolutionKey.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="CreateConferenceRequest.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EntryPoint.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="Error.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="Event.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventAttachment.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventAttendee.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventCreator.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventDateTime.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventExtendedProperties.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventGadget.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventOrganizer.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947680000000" remote="132457947680000000" Dst="2" />
+<file name="EventReminder.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="EventReminders.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="Events.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="EventSource.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="FreeBusyCalendar.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="FreeBusyGroup.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="FreeBusyRequest.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="FreeBusyRequestItem.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="FreeBusyResponse.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="Setting.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="Settings.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+<file name="TimePeriod.php" server="chi-node59.websitehostserver.net/public_html/app/" local="132457947690000000" remote="132457947690000000" Dst="2" />
+</dwsync>
